@@ -23,7 +23,7 @@ html {
 }
 
 .sub-title {
-    font-size: 28px;
+    font-size: 22px;
 }
 
 .hr-theme-slash-2 {
@@ -31,7 +31,7 @@ html {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-  
+
 .hr-theme-slash-2 .hr-line {
     width: 100%;
     position: relative;
@@ -90,4 +90,3 @@ html {
 .blockquote cite:before {
     content: "\2014 \2009";
 }
-
